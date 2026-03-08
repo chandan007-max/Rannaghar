@@ -1,0 +1,9 @@
+{
+  "name": "Rannaghar - Customer Ordering App",
+  "description": "A comprehensive customer ordering application for the restaurant 'Rannaghar', featuring a customer-facing menu and cart system, and an admin panel to manage settings. Orders are placed via WhatsApp with precise location details.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
